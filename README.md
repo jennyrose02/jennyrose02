@@ -1,5 +1,4 @@
 
-</head>
 <body>
     <div class="container">
         <h1>Hi I'm Jennyrose Jarabe</h1>
