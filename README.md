@@ -2,7 +2,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Jennyrose Jarabe</h1>
+        <h1>Hi I'm Jennyrose Jarabe</h1>
         <div class="contact">
             <p><strong>Web Designer</strong></p>
             <p>PHONE: <strong>09630543999</strong></p>
